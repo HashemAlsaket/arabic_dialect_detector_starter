@@ -1,2 +1,2 @@
-# arabic_dialect_detector_starter
+# Arabic Dialect Detector Starter
 Detect different dialects of Arabic
